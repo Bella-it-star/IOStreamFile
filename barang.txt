@@ -1,0 +1,5 @@
+Laptop ASUS;1.2E7;5
+Smartphone Samsung;5500000.0;10
+Mouse Wireless;250000.0;25
+Keyboard Mekanik;750000.0;12
+Monitor 24 Inch;2100000.0;8
